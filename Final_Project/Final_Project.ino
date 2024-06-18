@@ -1,6 +1,6 @@
 #define ERA_DEBUG
 #define DEFAULT_MQTT_HOST "mqtt1.eoh.io"
-#define ERA_AUTH_TOKEN "846bc96e-9c45-4edd-b46c-39d124854dc7"
+#define ERA_AUTH_TOKEN "---------------------------"
 
   //----------ERa liberary----------//
 #include <ERa.hpp>
@@ -89,8 +89,8 @@ SPIClass vspi(VSPI);
 
 TFT_22_ILI9225 tft = TFT_22_ILI9225(TFT_RST, TFT_RS, TFT_CS, TFT_LED, TFT_BRIGHTNESS);
 
-const char* ssid     = "LAPTOP-KHA";
-const char* password = "54260000";
+const char* ssid     = "------------";
+const char* password = "------------";
 
   //Declare the UDP port
 WiFiUDP ntpUDP;
