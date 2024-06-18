@@ -1,6 +1,6 @@
 #define ERA_DEBUG
 #define DEFAULT_MQTT_HOST "mqtt1.eoh.io"
-#define ERA_AUTH_TOKEN "-------------------------------------------"
+#define ERA_AUTH_TOKEN "--------------------------------------------"
 
   //----------ERa liberary----------//
 #include <ERa.hpp>
