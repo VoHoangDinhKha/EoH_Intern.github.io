@@ -29,3 +29,6 @@ The weather icons are accurately updated based on the parameters collected from 
 ### ***Additional features***
 Alarm: In addition to the main functions, the system also features an alarm function using a buzzer according to the time set by the user.
 RTOS: Using FreeRTOS to handle tasks for LED lights at different frequencies and to process tasks for uploading data to the E-Ra platform.
+
+## Demo
+__[Link Video](https://www.youtube.com/watch?v=-zrkdetbYBs)__
