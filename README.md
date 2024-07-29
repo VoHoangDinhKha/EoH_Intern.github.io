@@ -31,4 +31,6 @@ Alarm: In addition to the main functions, the system also features an alarm func
 RTOS: Using FreeRTOS to handle tasks for LED lights at different frequencies and to process tasks for uploading data to the E-Ra platform.
 
 ## Demo
-__[Link Video](https://www.youtube.com/watch?v=-zrkdetbYBs)__
+__[![demo](https://github.com/user-attachments/assets/913deb70-a6ad-4ace-b4ec-b8633938f762)](https://www.youtube.com/watch?v=-zrkdetbYBs)__
+
+
